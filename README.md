@@ -24,9 +24,9 @@ timezone : "Asia/Seoul (UTC+9)"
 hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
 ```
 
-> 💡 *"작은 새싹도 결국 크게 자란다 — 매일 조금씩, 꾸준히 성장하는 개발자입니다."*
+💡 *"작은 새싹도 결국 크게 자란다 — 매일 조금씩, 꾸준히 성장하는 개발자입니다."*
 
----
+#
 
 ## 🛠️ Tech Stack
 
@@ -55,7 +55,7 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
----
+#
 
 ## 📚 Currently Learning
 
@@ -70,7 +70,7 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
----
+#
 
 ## 📊 GitHub Stats
 
@@ -87,7 +87,7 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
 
 </div>
 
----
+#
 
 ## ⏱️ WakaTime Coding Activity
 
