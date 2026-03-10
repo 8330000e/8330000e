@@ -15,7 +15,7 @@
 
 
 
-## 🧑‍💻 About Me
+## 🧑‍💻 ABOUT ME
 
 ```yaml
 name     : "8330000e"
@@ -29,9 +29,9 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
 
 #
 
-## 🛠️ Tech Stack
+## 🛠️ TECH STACK
 
-### 💬 Languages
+### 💬 LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -40,40 +40,38 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ DATABASE
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### ⚙️ Skills & Tools
+### ⚙️ SKILLS & TOOLS
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
 
 #
 
-## 📚 Currently Learning
+## 📚 CURRENTLY LEARNING
 
 > 꾸준히 공부하며 역량을 넓혀가고 있어요 ✏️
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 #
 
-## 📊 GitHub Stats
+## 📊 GITHUB STATS
 
 <div align="center">
 
@@ -90,7 +88,7 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
 
 #
 
-## ⏱️ WakaTime Coding Activity
+## ⏱️ WAKATIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
 **저는 아침형 인간이에요. 🐤** 
@@ -125,21 +123,21 @@ Java                     16 mins             ████░░░░░░░�
 
 #
 
-## 🌱 My Journey
+## 🌱 MY JOURNEY
 
 ```text
 2024  ───────────────────────────────────────────── 2026
   │                                                   │
   ├── 🎓 개발 공부 시작                                │
   ├── 💻 Python / Java / HTML / CSS / JS 학습         │
-  ├── ⚛️ Linux / MySQL / Spring / Node.js 학습        │
+  ├── 📖 Linux / MySQL / Spring / Node.js 학습        │
   ├── 📚 C / Next.js 도전 중                          │
   └── 🚀 Oracle SQL / Spring Boot / React 학습 중 ── NOW
 ```
 
 #
 
-## 📬 Contact
+## 📬 CONTACT
 
 <div align="center">
 
