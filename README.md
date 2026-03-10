@@ -76,7 +76,7 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
 <div align="center">
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8330000e&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img src="https://api.githubtrends.io/user/svg/8330000e/langs?time_range=one_year&theme=dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8330000e&theme=tokyonight"/>
 
 </div>
 
