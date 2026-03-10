@@ -5,7 +5,7 @@
 
 <p style="text-align:center;">
   
-  **...LOADING**
+  **...MODIFYING**
 </p>
 
 <!-- 뱃지 줄 -->
