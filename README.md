@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 헤더 애니메이션 타이핑 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=42&pause=1000&color=3c491c&center=true&vCenter=true&repeat=false&random=true&width=830&lines=The+green+shoots+that+grow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=42&pause=1000&color=536820&center=true&vCenter=true&repeat=false&random=true&width=830&lines=The+green+shoots+that+grow)](https://git.io/typing-svg)
 
 <p style="text-align:center;">
   
