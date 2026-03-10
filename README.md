@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, My name is Gayeon and I'm studying development. 🍙
+
 
 <!--
 **8330000e/8330000e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
