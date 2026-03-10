@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-**🛠 Tech Stack**
+
 <p>
  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
