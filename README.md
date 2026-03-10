@@ -5,6 +5,11 @@
 
 <br/>
 
+<p style="text-align:center;">
+  
+  **...LOADING**
+</p>
+
 <!-- 뱃지 줄 -->
 
 </div>
