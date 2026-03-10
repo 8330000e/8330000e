@@ -3,8 +3,6 @@
 <!-- 헤더 애니메이션 타이핑 -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&width=830&lines=The+green+shoots+that+grow)](https://git.io/typing-svg)
 
-<br/>
-
 <p style="text-align:center;">
   
   **...LOADING**
