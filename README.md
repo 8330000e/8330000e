@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **DABABASE**
 <p>
- <img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+ <img src="https://img.shields.io/badge/Oracle_SQL-000000?style=for-the-badge&logo=oracle&logoColor=white">
  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
