@@ -6,8 +6,6 @@
 <br/>
 
 <!-- 뱃지 줄 -->
-![GitHub followers](https://img.shields.io/github/followers/8330000e?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=8330000e&color=2f81f7&style=flat-square&label=Profile+Views)
 
 </div>
 
