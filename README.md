@@ -1,6 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap" rel="stylesheet">
+![Google Fonts](https://img.shields.io/badge/Font-Noto%20Emoji-blue?logo=googlefonts)
 <div align="center">
 
 <!-- 헤더 애니메이션 타이핑 -->
