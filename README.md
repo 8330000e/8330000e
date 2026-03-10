@@ -1,4 +1,4 @@
-![Google Fonts](https://img.shields.io/badge/Font-Noto%20Emoji-blue?logo=googlefonts)
+
 <div align="center">
 
 <!-- 헤더 애니메이션 타이핑 -->
