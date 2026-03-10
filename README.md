@@ -1,5 +1,5 @@
 ## Hi, My name is Gayeon and I'm studying development. 🍙
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **8330000e/8330000e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
