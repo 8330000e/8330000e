@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-
+**🛠 제가 사용하는 언어들**
 <p>
  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white">
