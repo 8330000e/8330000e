@@ -1,3 +1,6 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap" rel="stylesheet">
 <div align="center">
 
 <!-- 헤더 애니메이션 타이핑 -->
@@ -122,7 +125,7 @@ Java                     16 mins             ████░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
----
+#
 
 ## 🌱 My Journey
 
@@ -136,7 +139,7 @@ Java                     16 mins             ████░░░░░░░�
   └── 🚀 Oracle SQL / Spring Boot / React 학습 중 ── NOW
 ```
 
----
+#
 
 ## 📬 Contact
 
@@ -147,7 +150,7 @@ Java                     16 mins             ████░░░░░░░�
 
 </div>
 
----
+#
 
 <div align="center">
 
