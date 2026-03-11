@@ -18,11 +18,11 @@
 ## 🧑‍💻 ABOUT ME
 
 ```yaml
-name     : "8330000e"
+name     : "Kim Gayeon"
 location : "Seoul, South Korea 🇰🇷"
-status   : "Junior Developer | Actively seeking opportunities"
+status   : "Junior Developer | Building your skills one by one"
 timezone : "Asia/Seoul (UTC+9)"
-hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
+hobby    : ["코딩", "수 많은 상상", "문제 해결"]
 ```
 
 💡 *"작은 새싹도 결국 크게 자란다 — 매일 조금씩, 꾸준히 성장하는 개발자입니다."*
