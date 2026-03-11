@@ -6,7 +6,7 @@
 
 <p style="text-align:center;">
   
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&center=true&vCenter=true&width=830&lines=......UPGRADING;......3%25;......UPGRADING;......8%25)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=830&lines=......UPGRADING;......3%25;......UPGRADING;......8%25)](https://git.io/typing-svg)
 </p>
 
 <!-- 뱃지 줄 -->
