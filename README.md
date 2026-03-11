@@ -15,7 +15,7 @@
 
 
 
-## 😎💻 ABOUT ME
+## <img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f60e.png" height="28"/><img src="https://raw.githubusercontent.com/googlefonts/noto-emoji/main/png/128/emoji_u1f4bb.png" height="28"/> ABOUT ME
 ```yaml
 name     : "Kim Gayeon"
 location : "Seoul, South Korea 🇰🇷"
