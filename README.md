@@ -2,11 +2,11 @@
 <div align="center">
 
 <!-- 헤더 애니메이션 타이핑 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=42&pause=1000&color=83a823&center=true&vCenter=true&repeat=false&random=true&width=830&lines=The+green+shoots+that+grow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+10+Charted&size=42&pause=1000&color=739b07&center=true&vCenter=true&repeat=false&random=true&width=830&lines=The+green+shoots+that+grow)](https://git.io/typing-svg)
 
 <p style="text-align:center;">
   
-  **...MODIFYING**
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=000000&center=true&vCenter=true&width=830&lines=......UPGRADING;......3%25;......UPGRADING;......8%25)](https://git.io/typing-svg)
 </p>
 
 <!-- 뱃지 줄 -->
@@ -172,8 +172,8 @@ Python                   1 repo              ███░░░░░░░░�
 
 </div>
 
-#
 
+<br/>
 <div align="center">
 
 *⭐ 방문해주셔서 감사합니다! 함께 성장해요 🌱*
