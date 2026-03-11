@@ -15,7 +15,7 @@
 
 
 
-## 🧑‍💻 ABOUT ME
+## ![Developer](https://img.shields.io/badge/Status-🧑‍💻_Developing-orange?style=flat-square) ABOUT ME
 
 ```yaml
 name     : "Kim Gayeon"
