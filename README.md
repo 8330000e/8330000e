@@ -28,9 +28,9 @@ hobby    : ["코딩", "수 많은 상상", "문제 해결"]
 
 <br/>
 
-## 🛠️ TECH STACK
+## <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F6E0.svg" height="28"/>  TECH STACK
 
-### 💬 LANGUAGES
+### <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F4AC.svg" height="24"/> LANGUAGES
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -39,13 +39,13 @@ hobby    : ["코딩", "수 많은 상상", "문제 해결"]
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🗄️ DATABASE
+### <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F5C4.svg" height="24"/> DATABASE
 <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### ⚙️ SKILLS & TOOLS
+### <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/2699.svg" height="24"/> SKILLS & TOOLS
 <p>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
@@ -55,7 +55,7 @@ hobby    : ["코딩", "수 많은 상상", "문제 해결"]
 
 <br/>
 
-## 📚 CURRENTLY LEARNING
+## <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F4DA.svg" height="28"/> CURRENTLY LEARNING
 
 > 꾸준히 공부하며 역량을 넓혀가고 있어요 ✏️
 
@@ -70,7 +70,7 @@ hobby    : ["코딩", "수 많은 상상", "문제 해결"]
 
 <br/>
 
-## 📊 GITHUB STATS
+## <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F4CA.svg" height="28"/> GITHUB STATS
 
 <div align="center">
 
@@ -80,7 +80,7 @@ hobby    : ["코딩", "수 많은 상상", "문제 해결"]
 
 <br/>
 
-## ⏱️ WAKATIME CODING ACTIVITY
+## <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/23F1.svg" height="28"/>  WAKATIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
 **저는 아침형 인간이에요. 🐤** 
@@ -149,7 +149,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 <br/>
 
-## 🌱 MY JOURNEY
+## <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F331.svg" height="28"/> MY JOURNEY
 
 ```text
 2024  ───────────────────────────────────────────── 2026
@@ -163,7 +163,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 <br/>
 
-## 📬 CONTACT
+## <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F4EC.svg" height="28"/> CONTACT
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Python                   1 repo              ███░░░░░░░░�
 
 <div align="center">
 
-*⭐ 방문해주셔서 감사합니다! 함께 성장해요 🌱*
+*<img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/2B50.svg" height="18"/> 방문해주셔서 감사합니다! 함께 성장해요 <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/black/svg/1F331.svg" height="18"/>*
 
 
 </div>
