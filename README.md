@@ -15,8 +15,9 @@
 
 
 
-## ![Developer](https://img.shields.io/badge/Status-🧑‍💻_Developing-orange?style=flat-square) ABOUT ME
-
+##  ABOUT ME
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9d1_200d_1f4bb/512.gif" width="32" height="32"> **개발자 (Noto Emoji Style)**
+![Developer](https://img.shields.io/badge/Status-🧑‍💻_Developing-orange?style=flat-square)
 ```yaml
 name     : "Kim Gayeon"
 location : "Seoul, South Korea 🇰🇷"
