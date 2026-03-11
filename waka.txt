@@ -1,0 +1,10 @@
+cd ~
+git clone https://github.com/gjsheep/bash-wakatime.git .bash-wakatime
+
+nano ~/.wakatime.cfg
+[settings]
+api_key = YOUR_WAKATIME_API_KEY
+
+echo 'source ~/.bash-wakatime/bash-wakatime.sh' >> ~/.bashrc
+
+source ~/.bashrc
