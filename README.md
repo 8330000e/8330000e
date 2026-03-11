@@ -75,13 +75,6 @@ hobby    : ["코딩", "새로운 기술 탐구", "문제 해결"]
 
 <div align="center">
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8330000e&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8330000e&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=8330000e&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko)](https://git.io/streak-stats)
 
 </div>
