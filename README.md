@@ -75,7 +75,7 @@ hobby    : ["코딩", "상상", "문제 해결"]
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=8330000e&theme=tokyonight&hide_border=true&date_format=%5BY.%5Dn.j&locale=ko)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=%E3%84%B1%20%E3%85%8F&theme=blue-green&hide_border=true&border_radius=6&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&card_width=580)](https://git.io/streak-stats)
 
 </div>
 
