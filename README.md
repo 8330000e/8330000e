@@ -19,7 +19,7 @@
 ```yaml
 name     : "Kim Gayeon"
 location : "Seoul, South Korea 🇰🇷"
-status   : "Junior Developer | Building your skills one by one"
+status   : "Aspiring junior developer | Building your skills one by one"
 timezone : "Asia/Seoul (UTC+9)"
 hobby    : ["코딩", "상상", "문제 해결"]
 ```
