@@ -149,7 +149,8 @@ Python                   1 repo              ██░░░░░░░░░�
   ├── 💻 Python / Java / HTML / CSS / JS 학습         │
   ├── 📖 Linux / MySQL / Spring / Node.js 학습        │
   ├── 📚 C / TypeScript / Next.js 도전 중             │
-  └── 🚀 Oracle SQL / Spring Boot / React 학습 중 ── NOW
+  ├── 📝 Oracle SQL / Spring Boot / React 학습        |
+  └── 🚀 Docker / AWS / CI·CD 학습 중 ────────────── NOW
 ```
 
 <br/>
