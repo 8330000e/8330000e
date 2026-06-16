@@ -113,15 +113,15 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               9 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
-Java                     5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Java Properties          3 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-XML                      1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-Bash                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+JavaScript               5 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+Java                     4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Java Properties          3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+XML                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Bash                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            17 hrs 44 mins      ███████████████░░░░░░░░░░   60.94 % 
-VS Code                  11 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   39.06 % 
+IntelliJ IDEA            11 hrs 28 mins      █████████████░░░░░░░░░░░░   51.79 % 
+VS Code                  10 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.21 % 
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -137,7 +137,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2026 04:19:22 UTC
+ Last Updated on 16/06/2026 04:10:02 UTC
 <!--END_SECTION:waka-->
 
 <br/>
