@@ -113,10 +113,11 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Java                     6 mins              ██████████████████████░░░   87.29 % 
+YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+IntelliJ IDEA            7 mins              █████████████████████████   100.00 % 
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -132,7 +133,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 21/07/2026 02:41:56 UTC
+ Last Updated on 22/07/2026 02:38:56 UTC
 <!--END_SECTION:waka-->
 
 <br/>
