@@ -86,8 +86,6 @@ hobby    : ["코딩", "상상", "문제 해결"]
 ## ⏱️ WAKATIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2042%20mins-blue?style=flat)
-
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
@@ -115,15 +113,14 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               18 mins             █████████░░░░░░░░░░░░░░░░   37.51 % 
-Java                     13 mins             ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-XML                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JavaScript               18 mins             ███████████░░░░░░░░░░░░░░   44.76 % 
+XML                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+CSS                      6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Java                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Bash                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
 
 🔥 에디터들: 
-VS Code                  40 mins             █████████████████████░░░░   83.80 % 
-IntelliJ IDEA            7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+VS Code                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -145,7 +142,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 02:32:27 UTC
+ Last Updated on 29/07/2026 02:37:54 UTC
 <!--END_SECTION:waka-->
 
 <br/>
