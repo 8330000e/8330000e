@@ -73,16 +73,6 @@ hobby    : ["코딩", "상상", "문제 해결"]
 
 <br/>
 
-## 📊 GITHUB STATS
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=8330000e&theme=blue-green&hide_border=true&border_radius=6&locale=ko&date_format=%5BY.%5Dn.j&mode=weekly&card_width=580)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
 ## ⏱️ WAKATIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
