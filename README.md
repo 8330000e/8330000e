@@ -76,6 +76,8 @@ hobby    : ["코딩", "상상", "문제 해결"]
 ## ⏱️ WAKATIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2042%20mins-blue?style=social)
+
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
@@ -103,14 +105,14 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               5 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
-Java                     4 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.53 % 
-XML                      1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Nginx configuration file 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JavaScript               5 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
+Java                     4 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   34.50 % 
+XML                      1 hr 14 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+Nginx configuration file 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 에디터들: 
-VS Code                  11 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -132,7 +134,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:40:32 UTC
+ Last Updated on 08/08/2026 01:39:01 UTC
 <!--END_SECTION:waka-->
 
 <br/>
