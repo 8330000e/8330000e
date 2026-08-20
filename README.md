@@ -105,14 +105,10 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     1 hr 58 mins        █████████████████████████   99.61 % 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Java                     0 secs              █████████████████████████   100.00 % 
 
 🔥 에디터들: 
-IntelliJ IDEA            1 hr 58 mins        █████████████████████████   99.33 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +130,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 01:14:07 UTC
+ Last Updated on 20/08/2026 01:13:14 UTC
 <!--END_SECTION:waka-->
 
 <br/>
