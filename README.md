@@ -105,10 +105,10 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 
 🔥 에디터들: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +130,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:13:14 UTC
+ Last Updated on 21/08/2026 01:16:58 UTC
 <!--END_SECTION:waka-->
 
 <br/>
