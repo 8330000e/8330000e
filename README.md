@@ -105,10 +105,13 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+Java                     15 mins             █████████████████░░░░░░░░   66.86 % 
+Java Properties          4 mins              █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+XML                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 에디터들: 
-이번 주에 활동은 없어요.
+VS Code                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -130,7 +133,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 01:16:58 UTC
+ Last Updated on 25/08/2026 01:15:04 UTC
 <!--END_SECTION:waka-->
 
 <br/>
