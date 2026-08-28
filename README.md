@@ -76,26 +76,26 @@ hobby    : ["코딩", "상상", "문제 해결"]
 ## ⏱️ WAKATIME CODING ACTIVITY
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2016%20mins-blue?style=social)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2056%20mins-blue?style=social)
 
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1369 commits        ██████████░░░░░░░░░░░░░░░   40.55 % 
-🌆 낮　                     1865 commits        ██████████████░░░░░░░░░░░   55.24 % 
-🌃 저녁                     141 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+🌞 아침                     1388 commits        ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌆 낮　                     1869 commits        ██████████████░░░░░░░░░░░   54.97 % 
+🌃 저녁                     142 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 🌙 밤　                     1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      696 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-화요일                      766 commits         ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
-수요일                      686 commits         █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
-목요일                      490 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-금요일                      472 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-토요일                      130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-일요일                      136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+월요일                      696 commits         █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+화요일                      766 commits         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+수요일                      686 commits         █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+목요일                      491 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+금요일                      495 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+토요일                      130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+일요일                      136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -105,23 +105,23 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     1 hr 53 mins        █████████░░░░░░░░░░░░░░░░   35.48 % 
-Java Properties          54 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Nginx configuration file 50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-YAML                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Docker                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Java                     2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+JavaScript               1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Java Properties          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+Nginx configuration file 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🔥 에디터들: 
-VS Code                  5 hrs 17 mins       █████████████████████████   99.73 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VS Code                  7 hrs 29 mins       █████████████████████████   99.81 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (23.46%)
+⏱ AI Coding Time: 1 hr 14 mins (16.61%)
 
-✍️ 1,731 lines written by AI, 330 lines written by hand (83.99% AI-written)
+✍️ 1,731 lines written by AI, 570 lines written by hand (75.23% AI-written)
 
 🔤 5,795 Input Tokens, 737 Output Tokens
 
@@ -133,10 +133,10 @@ Cursor                   1,731 lines         ███████████�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.99% of written lines came from AI
+🤖 AI-Driven — 75.23% of written lines came from AI
 📝 Concise Prompter — average 164 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 25.58% of changed lines were hand-edited
+🚀 High AI Trust — 33.93% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -152,7 +152,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 07:49:36 UTC
+ Last Updated on 28/08/2026 09:54:19 UTC
 <!--END_SECTION:waka-->
 
 <br/>
