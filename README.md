@@ -105,23 +105,23 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-Java                     2 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
-JavaScript               1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Java Properties          54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Nginx configuration file 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+JavaScript               3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Java                     3 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   29.07 % 
+XML                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Java Properties          54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Nginx configuration file 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
 
 🔥 에디터들: 
-VS Code                  7 hrs 29 mins       █████████████████████████   99.81 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  10 hrs 43 mins      █████████████████████████   99.87 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (16.61%)
+⏱ AI Coding Time: 1 hr 14 mins (11.6%)
 
-✍️ 1,731 lines written by AI, 570 lines written by hand (75.23% AI-written)
+✍️ 1,731 lines written by AI, 711 lines written by hand (70.88% AI-written)
 
 🔤 5,795 Input Tokens, 737 Output Tokens
 
@@ -133,10 +133,10 @@ Cursor                   1,731 lines         ███████████�
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.23% of written lines came from AI
+🤖 AI-Driven — 70.88% of written lines came from AI
 📝 Concise Prompter — average 164 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 33.93% of changed lines were hand-edited
+🚀 High AI Trust — 38.96% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -152,7 +152,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 09:54:19 UTC
+ Last Updated on 29/08/2026 05:53:50 UTC
 <!--END_SECTION:waka-->
 
 <br/>
