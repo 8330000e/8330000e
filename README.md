@@ -81,21 +81,21 @@ hobby    : ["코딩", "상상", "문제 해결"]
 **저는 아침형 인간이에요. 🐤** 
 
 ```text
-🌞 아침                     1388 commits        ██████████░░░░░░░░░░░░░░░   40.79 % 
-🌆 낮　                     1871 commits        ██████████████░░░░░░░░░░░   54.98 % 
-🌃 저녁                     143 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+🌞 아침                     1389 commits        ██████████░░░░░░░░░░░░░░░   40.42 % 
+🌆 낮　                     1892 commits        ██████████████░░░░░░░░░░░   55.06 % 
+🌃 저녁                     154 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 🌙 밤　                     1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 📅 **제가 가장 생산적인 날은 화요일이에요.** 
 
 ```text
-월요일                      697 commits         █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
-화요일                      768 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-수요일                      686 commits         █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-목요일                      491 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-금요일                      495 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-토요일                      130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-일요일                      136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+월요일                      697 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+화요일                      800 commits         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+수요일                      687 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+목요일                      491 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+금요일                      495 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+토요일                      130 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+일요일                      136 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 ```
 
 
@@ -105,38 +105,37 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.81 % 
-Java                     2 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-XML                      52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Java Properties          50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Nginx configuration file 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               5 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.11 % 
+Java                     2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+CSS                      1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+XML                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 🔥 에디터들: 
-VS Code                  10 hrs 25 mins      █████████████████████████   99.86 % 
-Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  14 hrs 47 mins      █████████████████████████   99.90 % 
+Agent                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 14 mins (11.94%)
+⏱ AI Coding Time: 40 mins (4.55%)
 
-✍️ 1,731 lines written by AI, 605 lines written by hand (74.1% AI-written)
+✍️ 1,731 lines written by AI, 1,137 lines written by hand (60.36% AI-written)
 
-🔤 5,795 Input Tokens, 737 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.03 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 3 AI Prompts
 
 Cursor                   1,731 lines         █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.1% of written lines came from AI
-📝 Concise Prompter — average 164 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 36.62% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.36% of written lines came from AI
+📝 Concise Prompter — average 195 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 49.84% of changed lines were hand-edited
 ```
 
 **저는 주로 JavaScript 언어를 사용해요.** 
@@ -152,7 +151,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 03:51:40 UTC
+ Last Updated on 02/09/2026 03:11:11 UTC
 <!--END_SECTION:waka-->
 
 <br/>
