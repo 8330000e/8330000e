@@ -105,14 +105,14 @@ hobby    : ["코딩", "상상", "문제 해결"]
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-JavaScript               4 hrs 14 mins       ████████████░░░░░░░░░░░░░   46.92 % 
-CSS                      2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Java                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-XML                      1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+JavaScript               3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
+CSS                      2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.39 % 
+Java                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+XML                      1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Java Properties          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 에디터들: 
-VS Code                  9 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  7 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -134,7 +134,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026 03:29:52 UTC
+ Last Updated on 14/09/2026 03:40:19 UTC
 <!--END_SECTION:waka-->
 
 <br/>
