@@ -124,17 +124,17 @@ No AI Coding Activity Tracked This Week
 **저는 주로 JavaScript 언어를 사용해요.** 
 
 ```text
-JavaScript               7 repos             ████████████░░░░░░░░░░░░░   46.67 % 
-HTML                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Java                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JavaScript               7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 
 
 
 
- Last Updated on 01/10/2026 04:29:40 UTC
+ Last Updated on 02/10/2026 04:22:09 UTC
 <!--END_SECTION:waka-->
 
 <br/>
