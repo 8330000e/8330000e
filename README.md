@@ -71,67 +71,6 @@ hobby    : ["코딩", "상상", "문제 해결"]
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-<br/>
-
-## ⏱️ WAKATIME CODING ACTIVITY
-
-<!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2056%20mins-blue?style=social)
-
-**저는 아침형 인간이에요. 🐤** 
-
-```text
-🌞 아침                     1420 commits        ██████████░░░░░░░░░░░░░░░   38.82 % 
-🌆 낮　                     2030 commits        ██████████████░░░░░░░░░░░   55.49 % 
-🌃 저녁                     206 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-🌙 밤　                     2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-```
-📅 **제가 가장 생산적인 날은 화요일이에요.** 
-
-```text
-월요일                      708 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-화요일                      828 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-수요일                      716 commits         █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-목요일                      541 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-금요일                      535 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-토요일                      185 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-일요일                      145 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-```
-
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
-
-🔥 에디터들: 
-이번 주에 활동은 없어요.
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**저는 주로 JavaScript 언어를 사용해요.** 
-
-```text
-JavaScript               7 repos             ████████████░░░░░░░░░░░░░   50.00 % 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Java                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-TypeScript               2 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-```
-
-
-
-
- Last Updated on 14/10/2026 03:47:36 UTC
-<!--END_SECTION:waka-->
 
 <br/>
 
